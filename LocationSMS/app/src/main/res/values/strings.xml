@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">LocationSMS</string>
+    <string name="mobile1">Mobile 1</string>
+    <string name="mobile2">Mobile 2</string>
+    <string name="msg_frequency">SMS Frequency</string>
+    <string name="msg_duration">SMS Duration</string>
+
+    <string name="api_key">AIzaSyATGy0-UMoyKmbZvSMrYQmjKeSAHmu5Ch8</string>
+    <!--Navigation Drawer-->
+    <string-array name="navigation_title">
+        <item>Home</item>
+        <item>Messages</item>
+        <item>Profiles</item>
+        <item>Help</item>
+    </string-array>
+    <string name="title_home">Home</string>
+    <string name="title_message">Messages</string>
+    <string name="title_profile">Profiles</string>
+    <string name="title_help">Help</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="no_location_detected">No Location available</string>
+
+    <string name="address_found">Address found</string>
+
+    <string name="no_address_found">Sorry, no address found</string>
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="service_not_available">Sorry, the service is not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude or longitude used</string>
+    <string name="no_connection">You are not connected to the Internet</string>
+    <string name="no_connection_title">Connection Error</string>
+    <string name="settings">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="username">Enter Name</string>
+    <string name="save_title">Do you want to save this for future?</string>
+    <string name="app_banner_id">ca-app-pub-8727833201476615/9614413885</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="no_profile_to_display">You have not saved any profile yet.</string>
+    <string name="no_msg_to_display">No message to display yet.</string>
+    <string name="remove_item">Remove Profile</string>
+    <string name="stop_message">Stop message</string>
+
+</resources>
